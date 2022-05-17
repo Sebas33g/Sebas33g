@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Sebas33g
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sebas33g/Sebas33g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Algoritmo sin_titulo
+	Escribir "ingrese un numero"
+	Leer num
+	Para i1<-1 Hasta num Hacer
+		Para i2<-1 Hasta 10 Hacer
+			r <- i1*i2
+			Escribir i1,"x",i2,"=",r
+		FinPara
+	FinPara
+FinAlgoritmo
